@@ -12,7 +12,6 @@
 
 ### H=N APIs and libraries by the community
 
-
 * hen utils https://github.com/jagracar/hen-utils/ utility methods to get information about the hic et nunc art platform by Javier Graciá Carpio [@jagracar](https://twitter.com/jagracar)
 
 * hicdex https://github.com/hicdex/hicdex GraphQL indexer by [@marchingsquare](https://twitter.com/marchingsquare)
@@ -21,14 +20,19 @@
 
 ## Tezos development 
 
-* The Tezos Developer Portal https://tezos.com/developer-portal includes a comprehensive list of resources
+* The Tezos Developer Portal https://tezos.com/developer-portal has a comprehensive list of resources
 
-* The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development    
-* Aother course, the Tezos pathway by Figment Learn: https://learn.figment.io/network-documentation/tezos/tezos-pathway
+## Courses and Learning resources 
 
-## Simulated / gamified learning environments 
+* The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development covering SmartyPy, Michelson, Ligo, Taquito   
 
-tbd.
+* PyTezos course https://pytezos.baking-bad.org/ running in Google Colab / Jupyter Notebooks
+
+* Tezos pathway by Figment Learn (Ligo): https://learn.figment.io/network-documentation/tezos/tezos-pathway
+
+* Gamified course https://cryptocodeschool.in/tezos/academy teaching SmartPy and Taquito
+
+* Gamified Logo course https://tezosacademy.io/
 
 ## APIs
 
