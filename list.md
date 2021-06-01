@@ -10,11 +10,23 @@
 
 * https://github.com/hicetnunc2000/hicetnunc-api 
 
+### H=N APIs and libraries by the community
+
+
+* hen utils https://github.com/jagracar/hen-utils/ utility methods to get information about the hic et nunc art platform by Javier Graciá Carpio
+
+* hicdex https://github.com/hicdex/hicdex GraphQL indexer by [@marchingsquare](https://twitter.com/marchingsquare)
+
 ## Tezos development 
 
 * The Tezos Developer Portal https://tezos.com/developer-portal includes a comprehensive list of resources
 
 * The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development    
+* Aother course, the Tezos pathway by Figment Learn: https://learn.figment.io/network-documentation/tezos/tezos-pathway
+
+## Simulated / gamified learning environments 
+
+tbd.
 
 ## APIs
 
@@ -95,8 +107,6 @@ https://www.trufflesuite.com/docs/tezos/truffle/quickstart
 ### Typescript 
 
 * Taquito: https://tezostaquito.io/ 
-
-## Simulated / gamified learning environments 
 
 ## Baking 
 
