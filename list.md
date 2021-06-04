@@ -102,7 +102,7 @@ https://www.trufflesuite.com/docs/tezos/truffle/quickstart
 
 ### Michelson
 
-* Michelson DSL, a stack-based language and the native language of Tezos. It is written in OCaml (https://ocaml.org/) and used to write smart contracts on the Tezos blockchain. https://wiki.tezosagora.org/learn/smartcontracts/michelson 
+* Michelson DSL, a stack-based language and the native language of Tezos. It is written in OCaml (https://ocaml.org/) and used to write smart contracts on the Tezos blockchain. https://tezos.gitlab.io/alpha/michelson.html, https://wiki.tezosagora.org/learn/smartcontracts/michelson 
 
 ### Python 
 
