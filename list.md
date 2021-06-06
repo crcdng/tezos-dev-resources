@@ -18,9 +18,13 @@
 
 * hicetnunc.xyz open dataset and parsers https://github.com/hashquine/hicetnunc-dataset by [@HashQuine](https://twitter.com/HashQuine)
 
+---
+
 ## Tezos development 
 
 * The Tezos Developer Portal https://tezos.com/developer-portal has a comprehensive list of resources
+
+---
 
 ## Courses and Learning resources 
 
@@ -33,6 +37,8 @@
 * Gamified course https://cryptocodeschool.in/tezos/academy teaching SmartPy and Taquito
 
 * Gamified Logo course https://tezosacademy.io/
+
+---
 
 ## APIs
 
@@ -57,6 +63,8 @@ https://nautilus.cloud/
 
 * https://www.walletbeacon.io/ 
 
+---
+
 ## Programming Languages (alphabetically)
 
 ### Archetype DSL 
@@ -67,9 +75,15 @@ https://nautilus.cloud/
 
 * NeTezos https://github.com/baking-bad/netezos 
 
-### JavaScript
+### JavaScript / Typescript
 
-* Fi DSL, JavaScript like syntax https://fi-code.com/ 
+* (Fi DSL, (outdated) JavaScript like syntax https://fi-code.com/) 
+
+* Svelte: https://github.com/claudebarde/svelte-tezos-template
+
+* Taquito: https://tezostaquito.io/ 
+
+* see also: LIGO
 
 ### Flutter and Dart 
 
@@ -92,7 +106,7 @@ https://nautilus.cloud/
 * Truffle, a development suite on top of Ligo (requires Docker)
 https://www.trufflesuite.com/docs/tezos/truffle/quickstart 
 
-### (Liquidity (outdated))
+### (Liquidity (outdated) https://www.liquidity-lang.org/)
 
 ### Haskell
 
@@ -110,13 +124,7 @@ https://www.trufflesuite.com/docs/tezos/truffle/quickstart
 
 * SmartPy, a Python library that generates Michelson code: https://smartpy.io/ 
 
-### Svelte 
-
-* https://github.com/claudebarde/svelte-tezos-template
-
-### Typescript 
-
-* Taquito: https://tezostaquito.io/ 
+---
 
 ## Baking 
 
