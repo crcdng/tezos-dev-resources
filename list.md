@@ -24,6 +24,8 @@
 
 * The Tezos Developer Portal https://tezos.com/developer-portal has a comprehensive list of resources
 
+* Tezos node implementation https://gitlab.com/tezos/tezos
+
 ---
 
 ## Courses and Learning resources 
@@ -46,10 +48,7 @@
 
 * better call dev (Baking Bad) https://better-call.dev/docs smart contracts
 
-* Cryptonomic (multilanguage) stack / APIs: Conseil / Nautilus 
-https://cryptonomic.tech/developers.html, 
-https://github.com/Cryptonomic/Conseil, 
-https://nautilus.cloud/ 
+* Cryptonomic (multilanguage) stack / APIs: Conseil / Nautilus https://cryptonomic.tech/developers.html, https://github.com/Cryptonomic/Conseil, https://nautilus.cloud/ 
 
 * TzStats https://tzstats.com/docs/api#tezos-api with an Go SDK https://github.com/blockwatch-cc/tzstats-go 
 
@@ -59,7 +58,7 @@ https://nautilus.cloud/
 
 * https://ipfs.io 
 
-### Wallet connectivity 
+### Beacon Wallet connectivity 
 
 * https://www.walletbeacon.io/ 
 
@@ -67,29 +66,29 @@ https://nautilus.cloud/
 
 ## Programming Languages (alphabetically)
 
-### Archetype DSL 
+### Archetype 
 
-* https://archetype-lang.org/ 
+* Archetype DSL: "a domain-specific language to develop Smart Contracts on the Tezos blockchain, with a specific focus on contract verification" https://archetype-lang.org/ (MIT License)
 
 ### C# 
 
-* NeTezos https://github.com/baking-bad/netezos 
+* Netezos: "Netezos is a cross-platform Tezos SDK for .NET developers, simplifying the access and interaction with the Tezos blockchain." https://github.com/baking-bad/netezos (MIT License)
 
 ### JavaScript / Typescript
 
 * (Fi DSL, (outdated) JavaScript like syntax https://fi-code.com/) 
 
-* Svelte: https://github.com/claudebarde/svelte-tezos-template
+* Svelte: "A Svelte template to build awesome dapps on Tezos!" https://github.com/claudebarde/svelte-tezos-template (based on Taquito and Beacon, License missing)
 
-* Taquito: https://tezostaquito.io/ 
+* Taquito: "A TypeScript library suite for development on the Tezos blockchain." https://tezostaquito.io/ (MIT License)
 
-* see also: LIGO
+* see also: JsLIGO
 
 ### Flutter and Dart 
 
-* Tezart https://moneytrackio.github.io/tezart/#/
+* Tezart "A magic way to interact with the Tezos blockchain using dart." https://moneytrackio.github.io/tezart/#/ (MIT License)
 
-* Tezter (AGPL 3.0) https://github.com/Tezsure/Tezster_dart, article: https://aditya-12115.medium.com/ 
+* Tezter "A library for building decentralized applications in Flutter, currently focused on the Tezos platform." https://github.com/Tezsure/Tezster_dart, article: https://aditya-12115.medium.com/ (AGPL 3.0)
 
 ### Go
 
