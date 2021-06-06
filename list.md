@@ -106,7 +106,9 @@ https://nautilus.cloud/
 * Truffle, a development suite on top of Ligo (requires Docker)
 https://www.trufflesuite.com/docs/tezos/truffle/quickstart 
 
-### (Liquidity (outdated) https://www.liquidity-lang.org/)
+### Liquidity
+
+* https://www.liquidity-lang.org/, https://github.com/OCamlPro/liquidity (Dune Network and Tezos, outdated(?), GPL)
 
 ### Haskell
 
