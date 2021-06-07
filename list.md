@@ -30,15 +30,15 @@
 
 ## Courses and Learning resources 
 
-* The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development covering SmartyPy, Michelson, Ligo, Taquito   
+* The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development covering SmartyPy, Michelson, LIGO, Taquito   
 
 * PyTezos course https://pytezos.baking-bad.org/ running in Google Colab / Jupyter Notebooks
 
-* Tezos pathway by Figment Learn (Ligo): https://learn.figment.io/network-documentation/tezos/tezos-pathway
+* Tezos pathway by Figment Learn (LIGO): https://learn.figment.io/network-documentation/tezos/tezos-pathway
 
-* Gamified course https://cryptocodeschool.in/tezos/academy teaching SmartPy and Taquito
+* Gamified SmartPy and Taquito course https://cryptocodeschool.in/tezos/academy  
 
-* Gamified Logo course https://tezosacademy.io/
+* Gamified LIGO course https://tezosacademy.io/
 
 ---
 
