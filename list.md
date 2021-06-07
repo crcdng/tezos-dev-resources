@@ -92,38 +92,35 @@
 
 ### Go
 
-* TzGo https://github.com/blockwatch-cc/tzgo    
+* TzGo "TzGo is the officially supported Tezos Go client library by Blockwatch." https://github.com/blockwatch-cc/tzgo (MIT License)
 
 ### Juvix 
 
-* https://juvix.org/ “pre-alpha software for experimentation & research purposes only”
+* Juvix DSL "A more elegant language for a more civilized age" https://juvix.org/ (“pre-alpha software for experimentation & research purposes only”, GPL)
 
-### LIGO (CameLIGO, PascaLIGO, ReasonLIGO, experimental JsLIGO) 
+### LIGO  
 
-* https://ligolang.org/ 
+* LIGO "A friendly Smart Contract Language for Tezos" https://ligolang.org/ (CameLIGO, PascaLIGO, ReasonLIGO, experimental JsLIGO, MIT License)
 
-* Truffle, a development suite on top of Ligo (requires Docker)
-https://www.trufflesuite.com/docs/tezos/truffle/quickstart 
+* Truffle "Sweet Tools for Smart Contracts" https://www.trufflesuite.com/docs/tezos/truffle/quickstart ("Tezos support in Truffle is experimental.", development tool suite on top of LIGO, requires Docker, MIT License)
 
 ### Liquidity
 
-* https://www.liquidity-lang.org/, https://github.com/OCamlPro/liquidity (Dune Network and Tezos, outdated(?), GPL)
+* Liquidity "Liquidity is a high-level typed smart-contract language that compiles down to Michelson (for Dune Network and Tezos) and to Love for Dune Network." https://www.liquidity-lang.org/ (both Dune Network and Tezos, outdated(?), GPL)
 
 ### Haskell
 
-* Indigo DSL https://indigo-lang.gitlab.io/ 
-
-* Morley / Lorentz DSL for Haskell-based development https://wiki.tezosagora.org/learn/smartcontracts/morley-framework, https://hackage.haskell.org/package/morley Morley executable does not interact with Tezos node and Tezos network. It works in an emulated environment which is stored in a simple JSON file on disk.
+* Indigo / Morley / Lorentz "Indigo eDSL is a high level language for Michelson contract development. It is built on top of Lorentz, which in turn is built on top of Morley." https://gitlab.com/morley-framework/indigo https://wiki.tezosagora.org/learn/smartcontracts/morley-framework (MIT License)
 
 ### Michelson
 
-* Michelson DSL, a stack-based language and the native language of Tezos. It is written in OCaml (https://ocaml.org/) and used to write smart contracts on the Tezos blockchain. https://tezos.gitlab.io/alpha/michelson.html, https://wiki.tezosagora.org/learn/smartcontracts/michelson 
+* Michelson "the language of Smart Contracts in Tezos" https://tezos.gitlab.io/alpha/michelson.html (The native, low level language of Tezos, written in OCaml (https://ocaml.org/) and used to write smart contracts on the Tezos blockchain, MIT License)
 
 ### Python 
 
-* PyTezos https://pytezos.org/ 
+* PyTezos "A Python library for interacting with Tezos blockchain, testing smart contracts, and writing Michelson scripts." https://pytezos.org/ (MIT License)
 
-* SmartPy, a Python library that generates Michelson code: https://smartpy.io/ 
+* SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License)
 
 ---
 
