@@ -92,7 +92,7 @@
 
 ### Go
 
-* TzGo "TzGo is the officially supported Tezos Go client library by Blockwatch." https://github.com/blockwatch-cc/tzgo (MIT License)
+* TzGo "TzGo is the officially supported Tezos Go client library by Blockwatch." Early days, currently read-only data access. https://github.com/blockwatch-cc/tzgo (MIT License)
 
 ### Juvix 
 
