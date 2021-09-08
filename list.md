@@ -1,5 +1,9 @@
 ## H=N specific
 
+## Tutorials on H=N / H=N Apps and Tools development 
+
+* https://norulesjustfeels.com/hen, a collection of tutorials by [@FeelsNoRules](https://twitter.com/FeelsNoRules) 
+
 ### Lists of existing H=N tools
 
 * https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community
@@ -22,13 +26,11 @@
 
 ## Tezos development 
 
+## Courses and Learning resources  
+
 * The Tezos Developer Portal https://tezos.com/developer-portal has a comprehensive list of resources
 
 * Tezos node implementation https://gitlab.com/tezos/tezos
-
----
-
-## Courses and Learning resources 
 
 * The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development covering SmartyPy, Michelson, LIGO, Taquito   
 
