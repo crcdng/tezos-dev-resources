@@ -28,6 +28,8 @@
 
 ## Courses and Learning resources  
 
+* Tacode offers a starter course in CamelLIGO https://tacode.dev/courses/dev-starter
+
 * The Tezos Developer Portal https://tezos.com/developer-portal has a comprehensive list of resources
 
 * Tezos node implementation https://gitlab.com/tezos/tezos
@@ -78,11 +80,9 @@
 
 ### JavaScript / Typescript
 
-* (Fi DSL, (outdated) JavaScript like syntax https://fi-code.com/) 
-
 * Svelte: "A Svelte template to build awesome dapps on Tezos!" https://github.com/claudebarde/svelte-tezos-template (based on Taquito and Beacon, License missing)
 
-* Taquito: "A TypeScript library suite for development on the Tezos blockchain." https://tezostaquito.io/ (MIT License)
+* Taquito: "A TypeScript library suite for development on the Tezos blockchain." https://tezostaquito.io/ (MIT License) **Taquito is my recommendation for web coding and for connecting to smart contracts written in CamelLIGO on Tezos** 
 
 * see also: JsLIGO
 
@@ -102,13 +102,7 @@
 
 ### LIGO  
 
-* LIGO "A friendly Smart Contract Language for Tezos" https://ligolang.org/ (CameLIGO, PascaLIGO, ReasonLIGO, experimental JsLIGO, MIT License)
-
-* Truffle "Sweet Tools for Smart Contracts" https://www.trufflesuite.com/docs/tezos/truffle/quickstart ("Tezos support in Truffle is experimental.", development tool suite on top of LIGO, requires Docker, MIT License)
-
-### Liquidity
-
-* Liquidity "Liquidity is a high-level typed smart-contract language that compiles down to Michelson (for Dune Network and Tezos) and to Love for Dune Network." https://www.liquidity-lang.org/ (both Dune Network and Tezos, outdated(?), GPL)
+* LIGO "A friendly Smart Contract Language for Tezos" https://ligolang.org/ (CameLIGO, PascaLIGO, ReasonLIGO, experimental JsLIGO, MIT License). The CameLIGO version is the most up-to date. **CameLIGO is my recommendation for blockchain coding on Tezos** 
 
 ### Haskell
 
@@ -116,13 +110,13 @@
 
 ### Michelson
 
-* Michelson "the language of Smart Contracts in Tezos" https://tezos.gitlab.io/alpha/michelson.html (The native, low level language of Tezos, written in OCaml (https://ocaml.org/) and used to write smart contracts on the Tezos blockchain, MIT License)
+* Michelson "the language of Smart Contracts in Tezos" https://tezos.gitlab.io/alpha/michelson.html (The native, low level language of Tezos, written in OCaml (https://ocaml.org/), used to write smart contracts on the Tezos blockchain, MIT License). Higher level languages such as CamelLIGO and SmartPy are compiled down to Michelson.
 
 ### Python 
 
 * PyTezos "A Python library for interacting with Tezos blockchain, testing smart contracts, and writing Michelson scripts." https://pytezos.org/ (MIT License)
 
-* SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License)
+* SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License) **SmartPy is my recommendation for quick experiments and introductory blockchain coding on Tezos** 
 
 ---
 
@@ -137,3 +131,10 @@
 * K Framework https://kframework.org/ runtime verification
 
 * Manticore https://github.com/trailofbits/manticore 
+
+---
+
+### Outdated, not recommended 
+These are to best of my knowledge outdated / haven't seen recent development 
+
+FI, Liquidity, Truffle 
