@@ -28,7 +28,7 @@
 
 ## Courses and Learning resources  
 
-* Tacode offers a starter course in CamelLIGO https://tacode.dev/courses/dev-starter
+* Tacode offers a starter course in CameLIGO https://tacode.dev/courses/dev-starter
 
 * The Tezos Developer Portal https://tezos.com/developer-portal has a comprehensive list of resources
 
