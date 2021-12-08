@@ -1,6 +1,6 @@
 # hen-dev-resources
 
-A curated [list](list.md) of [Hic et Nunc](https://www.hicetnunc.xyz/) dev resources.
+A curated [list](list.md) of [Hic et Nunc](https://www.hicetnunc.art/) dev resources.
 
 Created for [hicathon](https://www.hicathon.xyz/).
 
