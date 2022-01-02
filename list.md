@@ -137,5 +137,5 @@ These are to best of my knowledge outdated / haven't seen recent development
 
 FI, Liquidity, Truffle 
 
-I cannot recommend the gamified LIGO course https://tezosacademy.io/. The online editor has major usabiliy issues; apart from that I do not recommend phrases such as "Soldier make us proud" in a learning resource aimed at computer science education for a diverse audience.
+I cannot recommend the gamified LIGO course https://tezosacademy.io/. Although the course content is well-made, it's online editor suffers from major usabiliy issues; service worker errors go unchecked and I do not recommend to use phrases such as "go ahead soldier and make us proud!" in a learning resource aimed at coding education for a diverse audience.
 
