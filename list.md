@@ -4,23 +4,27 @@
 
 * https://norulesjustfeels.com/hen, a collection of tutorials by [@FeelsNoRules](https://twitter.com/FeelsNoRules) 
 
-### Lists of existing H=N tools
+### Existing H=N tools
 
 * https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community
 
-* https://hicetnunc.tools/ by Pamicel
+* https://hicetnunc.tools/ list by [@pamicel](https://twitter.com/pamicel)
 
-### H=N API
+* https://nftbiker.xyz/ tool collection made by [@nftbiker](https://twitter.com/nftbiker)
 
-* https://github.com/hicetnunc2000/hicetnunc-api 
+### Original hicetnunc2000 Code Repository
+
+* https://github.com/hicetnunc2000 
+
+### Current Community Code Repository
+
+https://github.com/hen-community/
 
 ### H=N APIs and libraries by the community
 
 * hen utils https://github.com/jagracar/hen-utils/ utility methods to get information about the hic et nunc art platform by Javier Graciá Carpio [@jagracar](https://twitter.com/jagracar)
 
 * hicdex https://github.com/hicdex/hicdex GraphQL indexer by [@marchingsquare](https://twitter.com/marchingsquare)
-
-* hicetnunc.xyz open dataset and parsers https://github.com/hashquine/hicetnunc-dataset by [@HashQuine](https://twitter.com/HashQuine)
 
 ---
 
@@ -132,10 +136,12 @@
 
 ---
 
-### Outdated, not recommended 
-These are to best of my knowledge outdated / haven't seen recent development 
+### Outdated, or not recommended 
+These are to best of my knowledge outdated / haven't seen recent updates 
 
 FI, Liquidity, Truffle 
 
 I cannot recommend the gamified LIGO course https://tezosacademy.io/. Although the course content is well-made, it's online editor suffers from major usabiliy issues; service worker errors go unchecked, it needs proofreading but there is not even a hint where to report errors, and I do not recommend to use phrases such as "go ahead soldier and make us proud!" in a learning resource aimed at coding education for a diverse audience.
+
+hicetnunc.xyz open dataset and parsers https://github.com/hashquine/hicetnunc-dataset by [@HashQuine](https://twitter.com/HashQuine)
 
