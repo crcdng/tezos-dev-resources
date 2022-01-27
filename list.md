@@ -1,15 +1,13 @@
-## H=N specific
+# 1. Hic et Nunc (H=N) specific material
 
-## Tutorials on H=N / H=N Apps and Tools development 
+## Specific Tutorials on H=N Apps and Tools development 
 
 * https://norulesjustfeels.com/hen, a collection of tutorials by [@FeelsNoRules](https://twitter.com/FeelsNoRules) 
 
 ### Existing H=N tools
 
 * https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community
-
 * https://hicetnunc.tools/ list by [@pamicel](https://twitter.com/pamicel)
-
 * https://nftbiker.xyz/ tool collection made by [@nftbiker](https://twitter.com/nftbiker)
 
 ### Original hicetnunc2000 Code Repository
@@ -18,37 +16,35 @@
 
 ### Current Community Code Repository
 
-https://github.com/hen-community/
+* https://github.com/hen-community/
 
 ### H=N APIs and libraries by the community
 
 * hen utils https://github.com/jagracar/hen-utils/ utility methods to get information about the hic et nunc art platform by Javier Graciá Carpio [@jagracar](https://twitter.com/jagracar)
-
 * hicdex https://github.com/hicdex/hicdex GraphQL indexer by [@marchingsquare](https://twitter.com/marchingsquare)
 
 ---
 
-## Tezos development 
+# 2. General Tezos development 
+
+## Tezos Developer Resources
+
+* https://tezos.com/developer-portal/
+* https://opentezos.com/
+* Octez, an implementation of the Tezos blockchain https://gitlab.com/tezos/tezos
+* TZIP: Tezos improvement proposals (Standards) https://gitlab.com/tezos/tzip/-/tree/master/
 
 ## Courses and Learning resources  
 
 * Tacode offers a starter course in CameLIGO https://tacode.dev/courses/dev-starter
-
-* The Tezos Developer Portal https://tezos.com/developer-portal has a comprehensive list of resources
-
-* Tezos node implementation https://gitlab.com/tezos/tezos
-
 * The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development covering SmartyPy, Michelson, LIGO, Taquito   
-
 * PyTezos course https://pytezos.baking-bad.org/ running in Google Colab / Jupyter Notebooks
-
-* Tezos pathway by Figment Learn (LIGO): https://learn.figment.io/network-documentation/tezos/tezos-pathway
-
-* Gamified SmartPy and Taquito course https://cryptocodeschool.in/tezos/academy  
+* Various tutorials by Figment Learn (LIGO): https://learn.figment.io/protocols/tezos
+* Gamified SmartPy and Taquito course https://cryptocodeschool.in/tezos/academy/ 
 
 ---
 
-## APIs
+# 3. APIs
 
 ### Blockchain indexed data and statistics 
 
@@ -70,7 +66,7 @@ https://github.com/hen-community/
 
 ---
 
-## Programming Languages (alphabetically)
+# 4. Programming Languages (alphabetically)
 
 ### Archetype 
 
@@ -84,15 +80,13 @@ https://github.com/hen-community/
 
 * Svelte: "A Svelte template to build awesome dapps on Tezos!" https://github.com/claudebarde/svelte-tezos-template (based on Taquito and Beacon, License missing)
 
-* Taquito: "A TypeScript library suite for development on the Tezos blockchain." https://tezostaquito.io/ (MIT License) **Taquito is my recommendation for web coding and for connecting to smart contracts written in CamelLIGO on Tezos** 
+* Taquito: "A TypeScript library suite for development on the Tezos blockchain." https://tezostaquito.io/ (MIT License) **Taquito is my recommendation for connecting web apps to APIs and to smart contracts written in CamelLIGO on Tezos** 
 
 * see also: JsLIGO
 
 ### Flutter and Dart 
 
 * Tezart "A magic way to interact with the Tezos blockchain using dart." https://moneytrackio.github.io/tezart/#/ (MIT License)
-
-* Tezter "A library for building decentralized applications in Flutter, currently focused on the Tezos platform." https://github.com/Tezsure/Tezster_dart, article: https://aditya-12115.medium.com/ (AGPL 3.0)
 
 ### Go
 
@@ -104,7 +98,7 @@ https://github.com/hen-community/
 
 ### LIGO  
 
-* LIGO "A friendly Smart Contract Language for Tezos" https://ligolang.org/ (CameLIGO, PascaLIGO, ReasonLIGO, experimental JsLIGO, MIT License). The CameLIGO version is the most up-to date. **CameLIGO is my recommendation for blockchain coding on Tezos** 
+* LIGO "A friendly Smart Contract Language for Tezos" https://ligolang.org/ (CameLIGO, PascaLIGO, ReasonLIGO, experimental JsLIGO, MIT License). **CameLIGO is my recommendation for blockchain coding on Tezos** 
 
 ### Haskell
 
@@ -112,7 +106,7 @@ https://github.com/hen-community/
 
 ### Michelson
 
-* Michelson "the language of Smart Contracts in Tezos" https://tezos.gitlab.io/alpha/michelson.html (The native, low level language of Tezos, written in OCaml (https://ocaml.org/), used to write smart contracts on the Tezos blockchain, MIT License). Higher level languages such as CamelLIGO and SmartPy are compiled down to Michelson.
+* Michelson "the language of Smart Contracts in Tezos" https://tezos.gitlab.io/alpha/michelson.html (The native, low level language of Tezos, written in OCaml (https://ocaml.org/), used to write smart contracts on the Tezos blockchain, MIT License). Higher level languages such as CamelLIGO and SmartPy are compiled to Michelson.
 
 ### Python 
 
@@ -122,11 +116,11 @@ https://github.com/hen-community/
 
 ---
 
-## Baking 
+# 5. Baking 
 
 * Kiln https://tezos-kiln.org/, https://gitlab.com/tezos-kiln/kiln   
 
-## Program Verification
+# 6. Program Verification
 
 * WhyML / Why3, http://why3.lri.fr/ a platform for deductive program verification
 
@@ -139,9 +133,11 @@ https://github.com/hen-community/
 ### Outdated, or not recommended 
 These are to best of my knowledge outdated / haven't seen recent updates 
 
-FI, Liquidity, Truffle 
+* Tezter "A library for building decentralized applications in Flutter, currently focused on the Tezos platform." https://github.com/Tezsure/Tezster_dart, article: https://aditya-12115.medium.com/ (AGPL 3.0)
 
-I cannot recommend the gamified LIGO course https://tezosacademy.io/. Although the course content is well-made, it's online editor suffers from major usabiliy issues; service worker errors go unchecked, it needs proofreading but there is not even a hint where to report errors, and I do not recommend to use phrases such as "go ahead soldier and make us proud!" in a learning resource aimed at coding education for a diverse audience.
+* FI, Liquidity, Truffle 
 
-hicetnunc.xyz open dataset and parsers https://github.com/hashquine/hicetnunc-dataset by [@HashQuine](https://twitter.com/HashQuine)
+* I cannot recommend the gamified LIGO course https://tezosacademy.io/. Although the course content is well-made, it's online editor suffers from major usabiliy issues; service worker errors go unchecked, it needs proofreading but there is not even a hint where to report errors, and I do not recommend to use phrases such as "go ahead soldier and make us proud!" in a learning resource aimed at coding education for a diverse audience.
+
+* hicetnunc.xyz open dataset and parsers https://github.com/hashquine/hicetnunc-dataset by [@HashQuine](https://twitter.com/HashQuine)
 
