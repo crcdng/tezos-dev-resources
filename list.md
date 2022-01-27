@@ -31,6 +31,7 @@
 
 * https://tezos.com/developer-portal/
 * https://opentezos.com/
+* https://assets.tqtezos.com/docs/intro/
 * Octez, an implementation of the Tezos blockchain https://gitlab.com/tezos/tezos
 * TZIP: Tezos improvement proposals (Standards) https://gitlab.com/tezos/tzip/-/tree/master/
 
@@ -42,9 +43,7 @@
 * Various tutorials by Figment Learn (LIGO): https://learn.figment.io/protocols/tezos
 * Gamified SmartPy and Taquito course https://cryptocodeschool.in/tezos/academy/ 
 
----
-
-# 3. APIs
+## APIs, Frameworks and Tools
 
 ### Blockchain indexed data and statistics 
 
@@ -64,9 +63,13 @@
 
 * https://www.walletbeacon.io/ 
 
+### Open
+
+* Open Minter, a "dApp framework for enabling the creation and collection of non-fungible tokens (NFTs) on Tezos." https://github.com/tqtezos/minter
+
 ---
 
-# 4. Programming Languages (alphabetically)
+# 3. Programming Languages (alphabetically)
 
 ### Archetype 
 
@@ -90,7 +93,7 @@
 
 ### Go
 
-* TzGo "TzGo is the officially supported Tezos Go client library by Blockwatch." Early days, currently read-only data access. https://github.com/blockwatch-cc/tzgo (MIT License)
+* TzGo "TzGo is the officially supported Tezos Go client library by Blockwatch." In Betas. https://github.com/blockwatch-cc/tzgo (MIT License)
 
 ### Juvix 
 
@@ -116,21 +119,21 @@
 
 ---
 
-# 5. Baking 
+# 4. Other Topics
+
+## Baking 
 
 * Kiln https://tezos-kiln.org/, https://gitlab.com/tezos-kiln/kiln   
 
-# 6. Program Verification
+## Program Verification
 
 * WhyML / Why3, http://why3.lri.fr/ a platform for deductive program verification
-
 * K Framework https://kframework.org/ runtime verification
-
 * Manticore https://github.com/trailofbits/manticore 
 
 ---
 
-### Outdated, or not recommended 
+### Outdated / not recommended 
 These are to best of my knowledge outdated / haven't seen recent updates 
 
 * Tezter "A library for building decentralized applications in Flutter, currently focused on the Tezos platform." https://github.com/Tezsure/Tezster_dart, article: https://aditya-12115.medium.com/ (AGPL 3.0)
