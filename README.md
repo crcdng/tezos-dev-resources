@@ -1,4 +1,4 @@
-# hen-dev-resources
+# Resources for Developers - Hic et Nunc / Teia / Tezos 
 
 **tl;dr**
 To start learning to code smart contracts choose either: SmartPy (beginner-friendly Python Syntax) https://smartpy.io/ or CameLigo (statically typed, functional OCaml Syntax) https://ligolang.org/. 
