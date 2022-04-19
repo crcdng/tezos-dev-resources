@@ -1,7 +1,7 @@
 # Resources for Developers - Hic et Nunc / Teia / Tezos 
 
 **tl;dr**
-To start learning to code smart contracts choose either: SmartPy (beginner-friendly Python Syntax) https://smartpy.io/ or CameLigo (statically typed, functional OCaml Syntax) https://ligolang.org/. 
+To start learning to code Tezos smart contracts choose either: SmartPy (beginner-friendly Python Syntax) https://smartpy.io/ or CameLigo (statically typed, functional OCaml Syntax) https://ligolang.org/. 
 
 For more information, look at the curated [list of dev resources](list.md) for [Hic et Nunc](https://www.hicetnunc.art/) and [Tezos](https://tezos.com/).
 
