@@ -1,24 +1,14 @@
-# 1. Hic et Nunc (H=N) specific material
+# 1. Teia.art and Hic et Nunc (HEN) specific material
 
-## Specific Tutorials on H=N Apps and Tools development 
+## Existing tools
 
-* https://norulesjustfeels.com/hen, a collection of tutorials by [@FeelsNoRules](https://twitter.com/FeelsNoRules) 
-
-### Existing H=N tools
-
-* https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community
-* https://hicetnunc.tools/ list by [@pamicel](https://twitter.com/pamicel)
 * https://nftbiker.xyz/ tool collection made by [@nftbiker](https://twitter.com/nftbiker)
 
-### Original hicetnunc2000 Code Repository
-
-* https://github.com/hicetnunc2000 
-
-### Current Community Code Repository
+## Current Teia.art Community Code Repository
 
 * https://github.com/hen-community/
 
-### H=N APIs and libraries by the community
+## Teia.art APIs and libraries by the community
 
 * hen utils https://github.com/jagracar/hen-utils/ utility methods to get information about the hic et nunc art platform by Javier Graciá Carpio [@jagracar](https://twitter.com/jagracar)
 * hicdex https://github.com/hicdex/hicdex GraphQL indexer by [@marchingsquare](https://twitter.com/marchingsquare)
@@ -85,7 +75,7 @@
 
 * Taquito: "A TypeScript library suite for development on the Tezos blockchain." https://tezostaquito.io/ (MIT License) **Taquito is my recommendation for connecting web apps to APIs and to smart contracts written in CamelLIGO on Tezos** 
 
-* see also: JsLIGO
+* see also: JsLIGO, SmartPy
 
 ### Flutter and Dart 
 
@@ -101,7 +91,7 @@
 
 ### LIGO  
 
-* LIGO "A friendly Smart Contract Language for Tezos" https://ligolang.org/ (CameLIGO, PascaLIGO, ReasonLIGO, experimental JsLIGO, MIT License). **CameLIGO is my recommendation for blockchain coding on Tezos** 
+* LIGO "A friendly Smart Contract Language for Tezos" https://ligolang.org/. LIGO offers 4 different implementations: CameLIGO, PascaLIGO, ReasonLIGO, JsLIGO. MIT License. **CameLIGO is my recommendation for blockchain coding on Tezos** 
 
 ### Haskell
 
@@ -116,6 +106,8 @@
 * PyTezos "A Python library for interacting with Tezos blockchain, testing smart contracts, and writing Michelson scripts." https://pytezos.org/ (MIT License)
 
 * SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License) **SmartPy is my recommendation for quick experiments and introductory blockchain coding on Tezos** 
+
+Note that despite the name, SmartPy also offers a TypeScript implementation.
 
 ---
 
@@ -133,7 +125,17 @@
 
 ---
 
-### Outdated / not recommended 
+## Historic Materials on Hic et Nunc (HEN) Apps and Tools development 
+
+* https://norulesjustfeels.com/hen, a collection of tutorials by [@FeelsNoRules](https://twitter.com/FeelsNoRules) 
+* https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community
+* https://hicetnunc.tools/ list by [@pamicel](https://twitter.com/pamicel)
+
+### Original hicetnunc2000 Code Repository (deprecated, for historical reasons)
+
+* https://github.com/hicetnunc2000 
+
+### Outdated libraries / not recommended 
 These are to best of my knowledge outdated / haven't seen recent updates 
 
 * Tezter "A library for building decentralized applications in Flutter, currently focused on the Tezos platform." https://github.com/Tezsure/Tezster_dart, article: https://aditya-12115.medium.com/ (AGPL 3.0)
