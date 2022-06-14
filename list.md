@@ -105,9 +105,8 @@
 
 * PyTezos "A Python library for interacting with Tezos blockchain, testing smart contracts, and writing Michelson scripts." https://pytezos.org/ (MIT License)
 
-* SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License) SmartPy also has an online IDE so you don't have to install anything to start coding: https://smartpy.io/ide.    **SmartPy is my recommendation for quick experiments and introductory blockchain coding on Tezos** 
-
-Note that despite the name, SmartPy also offers a TypeScript implementation.
+* SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License) SmartPy also has an online IDE so you don't have to install anything to start coding: https://smartpy.io/ide. Note that despite the name, SmartPy also offers a TypeScript implementation.
+**SmartPy is my recommendation for quick experiments and introductory blockchain coding on Tezos** 
 
 ---
 
