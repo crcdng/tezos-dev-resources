@@ -1,7 +1,7 @@
 # Resources for Developers - Hic et Nunc / Teia / Tezos 
 
 **tl;dr**
-To start learning to code Tezos smart contracts choose either SmartPy (beginner-friendly Python Syntax) https://smartpy.io/ or CameLIGO (statically typed, functional OCaml Syntax) https://ligolang.org/. 
+To start learning to code Tezos smart contracts choose either SmartPy (beginner-friendly Python Syntax) https://smartpy.io/ or CameLIGO (statically typed, functional OCaml Syntax) https://ligolang.org/. For web frontend code, use Taquito (TypeScript) https://tezostaquito.io/.
 
 Without installing anything on your machine,you can explore SmartPy here https://smartpy.io/ide and CameLIGO here https://ide.ligolang.org/, choose "Increment CameLIGO" from the left menu.
 
