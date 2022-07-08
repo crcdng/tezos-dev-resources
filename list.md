@@ -53,13 +53,13 @@
 
 * https://www.walletbeacon.io/ 
 
-### Open
+### Open Minter
 
 * Open Minter, a "dApp framework for enabling the creation and collection of non-fungible tokens (NFTs) on Tezos." https://github.com/tqtezos/minter
 
 ---
 
-# 3. Programming Languages (alphabetically)
+# 3. Individual Programming Languages (alphabetically)
 
 ### Archetype 
 
@@ -107,6 +107,9 @@
 
 * SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License) SmartPy also has an online IDE so you don't have to install anything to start coding: https://smartpy.io/ide. Note that despite the name, SmartPy also offers a TypeScript implementation.
 **SmartPy is my recommendation for quick experiments and introductory blockchain coding on Tezos** 
+
+* Taqueria "Taqueria provides a seamless development workflow to easily build, test and deploy your Tezos applications." https://taqueria.io/ Taqueria provides a Command Line Interface and VSCode plugin, integrating tools such as SmartPy, Ligo, Taquito and Flextesa (a blockchain simulator). It aims to simplify setup of development tools, compilation and deployment.
+**Taqueria (in beta) looks promising if you are comfortable with command line tools and/or VSCode** 
 
 ---
 
