@@ -10,4 +10,4 @@ For more information on how to develop for [Teia](https://teia.art/) or for [Tez
 
 I try to keep this list up to date. You can support this work and creative digital artwork curation by donating to  tz1ffYDwFHchNy5vA5isuCAK2yVxh4Ye9pnk.
 
-Orininally created during [hicathon](https://www.hicathon.xyz/). Published under the Creative Commons Attribution 4.0 International License (CC BY 4.0)
+Orininally created during [hicathon](https://www.hicathon.xyz/). Published under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
