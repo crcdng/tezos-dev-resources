@@ -1,7 +1,7 @@
 # 1. Teia.art and Hic et Nunc (HEN) specific material
 
 * https://github.com/hen-community/ Teia.art Community Code Repository
-* https://github.com/teia-community/teia-stats Teia statistics by [@@jagracar](https://twitter.com/jagracar)
+* https://github.com/teia-community/teia-stats Teia statistics by [@jagracar](https://twitter.com/jagracar)
 
 # 2. APIs, Frameworks and Tools
 
