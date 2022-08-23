@@ -1,25 +1,26 @@
 # 1. Teia.art and Hic et Nunc (HEN) specific material
 
-## Existing tools
+* https://github.com/hen-community/ Teia.art Community Code Repository
+* https://github.com/teia-community/teia-stats Teia statistics by [@@jagracar](https://twitter.com/jagracar)
 
+# 2. APIs, Frameworks and Tools
+
+* https://live.teztok.com/ NFT platform live feed by [@tezostokens](https://twitter.com/tezostokens)
 * https://nftbiker.xyz/ tool collection made by [@nftbiker](https://twitter.com/nftbiker)
+* https://glry.xyz/value Colllection Appraisal by [@glryxyz](https://twitter.com/glryxyz)
 
-## Current Teia.art Community Code Repository
+* tzKT (Baking Bad) https://api.tzkt.io/ REST-like and WebSocket APIs
+* TzStats https://tzstats.com/docs/api#tezos-api API with an Go SDK https://github.com/blockwatch-cc/tzstats-go 
 
-* https://github.com/hen-community/
+* https://github.com/teztok/indexer by [@tezostokens](https://twitter.com/tezostokens) "An indexer that aggregates and normalizes NFT related data on the Tezos Blockchain and provides a GraphQL API for developers" (MIT)
+* https://www.walletbeacon.io/ SDK for Wallet connectivity
+* https://github.com/tqtezos/minter "Minter SDK offers a set of packages to bring creation, management, and sales of NFTs to any application." 
 
-## Teia.art APIs and libraries by the community
-
-* hen utils https://github.com/jagracar/hen-utils/ utility methods to get information about the hic et nunc art platform by Javier Graciá Carpio [@jagracar](https://twitter.com/jagracar)
-* hicdex https://github.com/hicdex/hicdex GraphQL indexer by [@marchingsquare](https://twitter.com/marchingsquare)
-
----
-
-# 2. General Tezos development 
+# 3. General Tezos development 
 
 ## Tezos Developer Resources
 
-* https://tezos.com/developer-portal/
+* https://tezos.com/developers/
 * https://opentezos.com/
 * https://assets.tqtezos.com/docs/intro/
 * Octez, an implementation of the Tezos blockchain https://gitlab.com/tezos/tezos
@@ -30,36 +31,8 @@
 * Tacode offers a starter course in CameLIGO https://tacode.dev/courses/dev-starter
 * The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development covering SmartyPy, Michelson, LIGO, Taquito   
 * PyTezos course https://pytezos.baking-bad.org/ running in Google Colab / Jupyter Notebooks
-* Various tutorials by Figment Learn (LIGO): https://learn.figment.io/protocols/tezos
-* Gamified SmartPy and Taquito course https://cryptocodeschool.in/tezos/academy/ 
 
-## APIs, Frameworks and Tools
-
-### Blockchain indexed data and statistics 
-
-* better call dev (Baking Bad) https://better-call.dev/docs smart contracts
-
-* Cryptonomic (multilanguage) stack / APIs: Conseil / Nautilus https://cryptonomic.tech/developers.html, https://github.com/Cryptonomic/Conseil, https://nautilus.cloud/ 
-
-* TzStats https://tzstats.com/docs/api#tezos-api with an Go SDK https://github.com/blockwatch-cc/tzstats-go 
-
-* tzKT (Baking Bad) https://api.tzkt.io/ REST-like and WebSocket APIs
-
-### IPFS Interplanetary File System
-
-* https://ipfs.io 
-
-### Beacon Wallet connectivity 
-
-* https://www.walletbeacon.io/ 
-
-### Open Minter
-
-* Open Minter, a "dApp framework for enabling the creation and collection of non-fungible tokens (NFTs) on Tezos." https://github.com/tqtezos/minter
-
----
-
-# 3. Individual Programming Languages (alphabetically)
+# 4. Individual Programming Languages (alphabetically)
 
 ### Archetype 
 
@@ -70,8 +43,6 @@
 * Netezos: "Netezos is a cross-platform Tezos SDK for .NET developers, simplifying the access and interaction with the Tezos blockchain." https://github.com/baking-bad/netezos (MIT License)
 
 ### JavaScript / Typescript
-
-* Svelte: "A Svelte template to build awesome dapps on Tezos!" https://github.com/claudebarde/svelte-tezos-template (based on Taquito and Beacon, License missing)
 
 * Taquito: "A TypeScript library suite for development on the Tezos blockchain." https://tezostaquito.io/ (MIT License) **Taquito is my recommendation for connecting web apps to APIs and to smart contracts written in CamelLIGO on Tezos** 
 
@@ -87,7 +58,7 @@
 
 ### Juvix 
 
-* Juvix DSL "A more elegant language for a more civilized age" https://juvix.org/ (“pre-alpha software for experimentation & research purposes only”, GPL)
+* Juvix DSL "Juvix is a research programming language created by Heliax as a first step toward creating more robust and reliable alternatives for formally verified smart contracts than existing languages." https://juvix.org/ (GPL)
 
 ### LIGO  
 
@@ -111,21 +82,21 @@
 * Taqueria "Taqueria provides a seamless development workflow to easily build, test and deploy your Tezos applications." https://taqueria.io/ Taqueria provides a Command Line Interface and VSCode plugin, integrating tools such as SmartPy, Ligo, Taquito and Flextesa (a blockchain simulator). It aims to simplify setup of development tools, compilation and deployment.
 **Taqueria (in beta) looks promising if you are comfortable with command line tools and/or VSCode** 
 
----
-
-# 4. Other Topics
+# 5. Other Topics
 
 ## Baking 
 
 * Kiln https://tezos-kiln.org/, https://gitlab.com/tezos-kiln/kiln   
+
+## IPFS 
+
+* https://ipfs.io IPFS Interplanetary File System
 
 ## Program Verification
 
 * WhyML / Why3, http://why3.lri.fr/ a platform for deductive program verification
 * K Framework https://kframework.org/ runtime verification
 * Manticore https://github.com/trailofbits/manticore 
-
----
 
 ## Historic Materials on Hic et Nunc (HEN) Apps and Tools development 
 
@@ -137,14 +108,31 @@
 
 * https://github.com/hicetnunc2000 
 
-### Outdated libraries / not recommended 
-These are to best of my knowledge outdated / haven't seen recent updates 
+# 6. Outdated / not recommended libraries and resources 
+
+These are to best of my knowledge outdated / unmaintained (no public commits repository for at least 3 months)  
+
+* better call dev API superseded by tzKT API (Baking Bad) 
+
+* ConseilJS https://github.com/Cryptonomic/Conseiljs (Cryptonomic strives to provide a multilanguage stack / APIs: Conseil / Nautilus https://cryptonomic.tech/developers.html, https://github.com/Cryptonomic/Conseil, https://nautilus.cloud/
+
+* FI
+
+* hen utils https://github.com/jagracar/hen-utils/ utility methods to get information about the hic et nunc art platform by Javier Graciá Carpio [@jagracar](https://twitter.com/jagracar)
+
+* hicdex https://github.com/hicdex/hicdex GraphQL indexer by [@marchingsquare](https://twitter.com/marchingsquare). a public instance of hicdex is kept running for compatibility with historic NFTs who rely on it  
+
+* Liquidity 
+
+* Svelte: "A Svelte template to build awesome dapps on Tezos!" https://github.com/claudebarde/svelte-tezos-template (based on Taquito and Beacon, License missing)
 
 * Tezter "A library for building decentralized applications in Flutter, currently focused on the Tezos platform." https://github.com/Tezsure/Tezster_dart, article: https://aditya-12115.medium.com/ (AGPL 3.0)
 
-* FI, Liquidity, Truffle 
+* Truffle 
 
-* I cannot recommend the gamified LIGO course https://tezosacademy.io/. Although the course content is well-made, it's online editor suffers from major usabiliy issues; service worker errors go unchecked, it needs proofreading but there is not even a hint where to report errors, and I do not recommend to use phrases such as "go ahead soldier and make us proud!" in a learning resource aimed at coding education for a diverse audience.
+* Figment Learn tutorials: https://learn.figment.io/protocols/tezos Attempts to provide a containered learning environment for multipe chains, The UX is conplicated by long loading times, pop-up messages. Confusing for beginners.
+
+* I cannot recommend the gamified LIGO course either https://tezosacademy.io/. Although the course content is well-made, it's online editor suffers from major usabiliy issues; service worker errors go unchecked, it needs proofreading but there is not even a hint where to report errors, and I do not recommend to use phrases such as "go ahead soldier and make us proud!" in a learning resource aimed at coding education for a diverse audience.
 
 * hicetnunc.xyz open dataset and parsers https://github.com/hashquine/hicetnunc-dataset by [@HashQuine](https://twitter.com/HashQuine)
 
