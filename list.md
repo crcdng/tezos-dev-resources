@@ -136,3 +136,6 @@ These are to best of my knowledge outdated / unmaintained (no public commits rep
 
 * hicetnunc.xyz open dataset and parsers https://github.com/hashquine/hicetnunc-dataset by [@HashQuine](https://twitter.com/HashQuine)
 
+-------------------------------
+
+maintained by by [@crcdng](https://twitter.com/crcdng) - see https://github.com/crcdng/tezos-dev-resources for Readme and LICENSE information
