@@ -2,7 +2,7 @@
 
 **tl;dr**
 
-<img width="981" alt="tezos_development" src="https://user-images.githubusercontent.com/830492/213877056-0b1c0020-8517-44a8-a588-54b2b1db4d86.png">
+<img width="981" alt="tezos_development" src="https://user-images.githubusercontent.com/830492/213877263-9c47fc69-c21a-4ba1-adf6-59068355d37f.png">
 
 For Tezos smart contracts choose either [SmartPy](https://smartpy.io/) (beginner-friendly Python Syntax) or [CameLIGO](https://ligolang.org/?lang=cameligo) (statically typed, functional OCaml Syntax). To connect web frontends to smart contracts, use [Taquito](https://tezostaquito.io/) (TypeScript).
 
