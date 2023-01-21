@@ -2,6 +2,8 @@
 
 **tl;dr**
 
+<img width="981" alt="tezos_development" src="https://user-images.githubusercontent.com/830492/213877056-0b1c0020-8517-44a8-a588-54b2b1db4d86.png">
+
 For Tezos smart contracts choose either [SmartPy](https://smartpy.io/) (beginner-friendly Python Syntax) or [CameLIGO](https://ligolang.org/?lang=cameligo) (statically typed, functional OCaml Syntax). To connect web frontends to smart contracts, use [Taquito](https://tezostaquito.io/) (TypeScript).
 
 There is a [tutorial](https://github.com/crcdng/ligo_demo_contract) that explains how to start completely from scratch and install all the required tools (for now CameLIGO / Mac only). To try things out without installing anything, you can explore the online editors of [SmartPy](https://smartpy.io/ide) and [LIGO](https://ide.ligolang.org/).
