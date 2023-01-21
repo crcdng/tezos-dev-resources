@@ -32,14 +32,12 @@
 * The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development covering SmartyPy, Michelson, LIGO, Taquito   
 * PyTezos course https://pytezos.baking-bad.org/ running in Google Colab / Jupyter Notebooks
 
-# 5. Multilanguage SDKs
-
-* LIGO "A friendly Smart Contract Language for Tezos" https://ligolang.org/. LIGO offers 4 different implementations: CameLIGO, PascaLIGO, ReasonLIGO, JsLIGO. MIT License. **CameLIGO is my recommendation for blockchain coding on Tezos** 
+# 4. Tooling 
 
 * Taqueria "Taqueria provides a seamless development workflow to easily build, test and deploy your Tezos applications." https://taqueria.io/ Taqueria provides a Command Line Interface and VSCode plugin, integrating tools such as SmartPy, Ligo, Taquito and Flextesa (a blockchain simulator). It aims to simplify setup of development tools, compilation and deployment.
-**Taqueria (in beta) looks promising if you are comfortable with command line tools and/or VSCode** 
+**Taqueria (in beta) looks promising as an alternative to install individual tools / languages** 
 
-# 6. Individual Programming Languages (alphabetically)
+# 5. Individual Programming Languages (alphabetically)
 
 ### Archetype 
 
@@ -71,6 +69,10 @@
 
 * Indigo / Morley / Lorentz "Indigo eDSL is a high level language for Michelson contract development. It is built on top of Lorentz, which in turn is built on top of Morley." https://gitlab.com/morley-framework/indigo https://wiki.tezosagora.org/learn/smartcontracts/morley-framework (MIT License)
 
+### LIGO 
+
+* "A friendly Smart Contract Language for Tezos" https://ligolang.org/. LIGO offers 3 language frontends: CameLIGO, PascaLIGO, JsLIGO. MIT License. **CameLIGO is my recommendation for blockchain coding on Tezos** 
+
 ### Michelson
 
 * Michelson "the language of Smart Contracts in Tezos" https://tezos.gitlab.io/alpha/michelson.html (The native, low level language of Tezos, written in OCaml (https://ocaml.org/), used to write smart contracts on the Tezos blockchain, MIT License). Higher level languages such as CamelLIGO and SmartPy are compiled to Michelson.
@@ -82,7 +84,7 @@
 * SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License) SmartPy also has an online IDE so you don't have to install anything to start coding: https://smartpy.io/ide. Note that despite the name, SmartPy also offers a TypeScript implementation.
 **SmartPy is my recommendation for quick experiments and introductory blockchain coding on Tezos** 
 
-# 7. Other Topics
+# 6. Other Topics
 
 ## Baking 
 
@@ -108,7 +110,7 @@
 
 * https://github.com/hicetnunc2000 
 
-# 8. Outdated / not recommended libraries and resources 
+# 7. Outdated / not recommended libraries and resources 
 
 These are to best of my knowledge outdated / unmaintained (no public commits repository for at least 3 months)  
 
