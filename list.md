@@ -71,7 +71,7 @@
 
 ### LIGO 
 
-* "A friendly Smart Contract Language for Tezos" https://ligolang.org/. LIGO offers 3 language frontends: CameLIGO, PascaLIGO, JsLIGO. MIT License. **CameLIGO is my recommendation for blockchain coding on Tezos** 
+* "A friendly Smart Contract Language for Tezos" https://ligolang.org/. LIGO offers two languages: CameLIGO (based on OCaml) and JsLIGO (based on JavaScript). MIT License. **CameLIGO is my recommendation for blockchain coding on Tezos** 
 
 ### Michelson
 
