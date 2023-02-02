@@ -114,6 +114,8 @@
 
 These are to best of my knowledge outdated / unmaintained (no public commits repository for at least 3 months)  
 
+* LIGO has deprecated PascaLIGO and ReasonLIGO
+
 * better call dev API superseded by tzKT API (Baking Bad) 
 
 * ConseilJS https://github.com/Cryptonomic/Conseiljs (Cryptonomic strives to provide a multilanguage stack / APIs: Conseil / Nautilus https://cryptonomic.tech/developers.html, https://github.com/Cryptonomic/Conseil, https://nautilus.cloud/
