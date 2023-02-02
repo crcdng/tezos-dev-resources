@@ -1,8 +1,7 @@
 # Resources for Developers - Hic et Nunc / Teia / Tezos 
 
 **tl;dr**
-
-<img width="981" alt="tezos_development" src="https://user-images.githubusercontent.com/830492/213878718-5345ed6d-3ec6-461c-8211-d60e6a04abc4.png">
+<img width="981" alt="tezos_development" src="https://user-images.githubusercontent.com/830492/216388866-71327812-d758-4eb3-aa23-3c0f5407b282.png">
 
 For Tezos smart contracts choose either [SmartPy](https://smartpy.io/) (beginner-friendly Python Syntax) or [CameLIGO](https://ligolang.org/?lang=cameligo) (statically typed, functional OCaml Syntax). To connect web frontends to smart contracts, use [Taquito](https://tezostaquito.io/) (TypeScript).
 
