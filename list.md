@@ -41,7 +41,7 @@
 
 ### Archetype 
 
-* Archetype DSL: "a domain-specific language to develop Smart Contracts on the Tezos blockchain, with a specific focus on contract verification" https://archetype-lang.org/ (MIT License)
+* Archetype DSL: "a domain-specific language to develop Smart Contracts on the Tezos blockchain, with a specific focus on contract verification" https://archetype-lang.org/ (MIT License). For unknown reasons, tutorials for Archetype can be found on a different website: https://completium.com/
 
 ### C# 
 
