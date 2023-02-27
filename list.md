@@ -110,7 +110,16 @@
 
 * https://github.com/hicetnunc2000 
 
-# 7. Outdated / not recommended libraries and resources 
+# 7. Outdated resources that need to be updated
+
+These resources contain outdated information:
+
+* https://wiki.tezos.com/ 
+* https://tezos.gitlab.io/
+* https://wiki.tezosagora.org/ 
+* https://assets.tqtezos.com/docs/setup/1-tezos-client/
+
+# 8. Outdated / Deprecated - Not Recommended libraries and resources 
 
 These are to best of my knowledge outdated / unmaintained (no public commits repository for at least 3 months)  
 
@@ -136,7 +145,7 @@ These are to best of my knowledge outdated / unmaintained (no public commits rep
 
 * Figment Learn tutorials: https://learn.figment.io/protocols/tezos Attempts to provide a containered learning environment for multipe chains, The UX is conplicated by long loading times, pop-up messages. Confusing for beginners.
 
-* I cannot recommend the gamified LIGO course either https://tezosacademy.io/. Although the course content is well-made, it's online editor suffers from major usabiliy issues; service worker errors go unchecked, it needs proofreading but there is not even a hint where to report errors, and I do not recommend to use phrases such as "go ahead soldier and make us proud!" in a learning resource aimed at coding education for a diverse audience.
+* I cannot recommend the gamified LIGO course either https://tezosacademy.io/ (besides, it is outdated). Although the course content appears well-made, it's online editor suffers from major usabiliy issues; service worker errors go unchecked, it needs proofreading but there is not even a hint where to report errors, and I do not recommend to use phrases such as "go ahead soldier and make us proud!" in a learning resource aimed at coding education for a diverse audience.
 
 * hicetnunc.xyz open dataset and parsers https://github.com/hashquine/hicetnunc-dataset by [@HashQuine](https://twitter.com/HashQuine)
 
