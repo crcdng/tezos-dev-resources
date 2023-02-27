@@ -1,7 +1,7 @@
 # Resources for Developers - Hic et Nunc / Teia / Tezos 
 
 **tl;dr**
-<img width="981" alt="tezos_development" src="https://user-images.githubusercontent.com/830492/216388866-71327812-d758-4eb3-aa23-3c0f5407b282.png">
+<img width="981" alt="tezos_development" src="https://user-images.githubusercontent.com/830492/221701284-fb6722a7-8568-4780-aaad-4211ffd771d1.png">
 
 For Tezos smart contracts choose either [Archetype](https://archetype-lang.org/) or [CameLIGO](https://ligolang.org/?lang=cameligo). To connect web frontends to smart contracts ("dApp"), use [Taquito](https://tezostaquito.io/) (TypeScript).
 
