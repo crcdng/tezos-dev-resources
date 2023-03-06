@@ -11,4 +11,6 @@ To try things out without installing anything, you can also explore the online e
 
 For more information on coding for [Teia](https://teia.art/) or [Tezos](https://tezos.com/) have a look at the more comprehensive [list of dev resources](list.md). I try to keep it up to date. You can support this work and creative digital artwork curation by donating to tz1ffYDwFHchNy5vA5isuCAK2yVxh4Ye9pnk.
 
-Orininally created during [hicathon](https://www.hicathon.xyz/). Published under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+---
+
+This repository is part of an onging effort to support Tezos developers and encourage artists who want to learn about creative (blockchain) coding that started during [hicathon](https://hicathon.xyz/). Published under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
