@@ -5,7 +5,7 @@
 
 For Tezos smart contracts choose either [Archetype](https://archetype-lang.org/) or [CameLIGO](https://ligolang.org/?lang=cameligo). To connect web frontends to smart contracts ("dApp"), use [Taquito](https://tezostaquito.io/) (TypeScript).
 
-There are two tutorials, one for [Archetype](https://github.com/crcdng/smart_contract_101_archetype) and one for [CameLIGO](https://github.com/crcdng/smart_contract_101_ligo) *(currently not complete / WIP)*. They cover how to install all the required tools and start completely from scratch (for now on a Mac only). 
+I provide two short tutorials, one for [Archetype](https://github.com/crcdng/smart_contract_101_archetype) and one for [CameLIGO](https://github.com/crcdng/smart_contract_101_ligo). Both are targeted at beginners, start completely from scratch, and cover everything from installing the required tools to deploying a smart contract (for now on a Mac only). 
 
 To try things out without installing anything, you can also explore the online editors of [SmartPy](https://smartpy.io/ide) and [LIGO](https://ide.ligolang.org/).
 
