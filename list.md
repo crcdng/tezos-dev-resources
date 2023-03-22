@@ -65,10 +65,6 @@
 
 * Juvix DSL "Juvix is a research programming language created by Heliax as a first step toward creating more robust and reliable alternatives for formally verified smart contracts than existing languages." https://juvix.org/ (GPL)
 
-### Haskell
-
-* Indigo / Morley / Lorentz "Indigo eDSL is a high level language for Michelson contract development. It is built on top of Lorentz, which in turn is built on top of Morley." https://gitlab.com/morley-framework/indigo https://wiki.tezosagora.org/learn/smartcontracts/morley-framework (MIT License)
-
 ### LIGO 
 
 * "A friendly Smart Contract Language for Tezos" https://ligolang.org/. LIGO offers two languages: CameLIGO (based on OCaml) and JsLIGO (based on JavaScript). MIT License. **CameLIGO is my recommendation for blockchain coding on Tezos** 
@@ -130,6 +126,8 @@ These are to best of my knowledge outdated / unmaintained (no public commits rep
 * ConseilJS https://github.com/Cryptonomic/Conseiljs (Cryptonomic strives to provide a multilanguage stack / APIs: Conseil / Nautilus https://cryptonomic.tech/developers.html, https://github.com/Cryptonomic/Conseil, https://nautilus.cloud/
 
 * FI
+
+* Haskell Frameworks by https://serokell.io/: Indigo / Morley / Lorentz 
 
 * hen utils https://github.com/jagracar/hen-utils/ utility methods to get information about the hic et nunc art platform by Javier Graciá Carpio [@jagracar](https://twitter.com/jagracar)
 
