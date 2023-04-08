@@ -28,7 +28,7 @@
 
 ## Courses and Learning resources  
 
-* 2-day smart contract coding for beginners training organized by [Nomadic Labs](https://www.nomadic-labs.com/). It takes place online via Discord and uses a virtual [Gitpod](https://www.gitpod.io/) coding environment, therefore you don't have to install things on your computer. You can choose to learn Archetype, SmartPy or JSLigo. The training focuses on solving coding tasks, and is largely self-paced, with tutors on stand-by to help with problems. What made the difference for me was a final session on finding bugs in smart contracts and discussions on how to implement randomness. It helps if you have some coding experience. Recommended.        
+* 2-day smart contract coding for beginners training organized by [Nomadic Labs](https://www.nomadic-labs.com/). It takes place online via Discord and uses a virtual [Gitpod](https://www.gitpod.io/) coding environment, therefore you don't have to install things on your computer. You can choose to learn Archetype, SmartPy or JSLigo. The training focuses on solving coding tasks, and is largely self-paced, with tutors on stand-by to help with problems. What made the difference for me was a final session on finding bugs in smart contracts and discussions on how to implement randomness. It helps if you have some coding experience beforehand. Recommended.        
  
 * Tacode offers a starter course in CameLIGO https://tacode.dev/courses/dev-starter
 * The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development covering SmartyPy, Michelson, LIGO, Taquito   
