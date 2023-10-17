@@ -1,34 +1,31 @@
 # 1. Teia.art and Hic et Nunc (HEN) specific material
 
-* https://github.com/hen-community/ Teia.art Community Code Repository
+* https://github.com/teia-community/ Teia.art Community Code Repository
 * https://github.com/teia-community/teia-stats Teia statistics by [@jagracar](https://twitter.com/jagracar)
 
 # 2. APIs, Frameworks and Tools
 
+* tzKT (Baking Bad) https://api.tzkt.io/ REST-like and WebSocket APIs
+* TzPro (previously TZStats API) https://docs.tzpro.io/  
+ 
 * https://live.teztok.com/ NFT platform live feed by [@tezostokens](https://twitter.com/tezostokens)
 * https://nftbiker.xyz/ tool collection made by [@nftbiker](https://twitter.com/nftbiker)
-* https://glry.xyz/value Colllection Appraisal by [@glryxyz](https://twitter.com/glryxyz)
-
-* tzKT (Baking Bad) https://api.tzkt.io/ REST-like and WebSocket APIs
-* TzStats https://tzstats.com/docs/api#tezos-api API with an Go SDK https://github.com/blockwatch-cc/tzstats-go 
 
 * https://github.com/teztok/indexer by [@tezostokens](https://twitter.com/tezostokens) "An indexer that aggregates and normalizes NFT related data on the Tezos Blockchain and provides a GraphQL API for developers" (MIT)
 * https://www.walletbeacon.io/ SDK for Wallet connectivity
-* https://github.com/tqtezos/minter "Minter SDK offers a set of packages to bring creation, management, and sales of NFTs to any application." 
 
 # 3. General Tezos development 
 
 ## Tezos Developer Resources
 
-* https://tezos.com/developers/
-* https://opentezos.com/
-* https://assets.tqtezos.com/docs/intro/
-* Octez, an implementation of the Tezos blockchain https://gitlab.com/tezos/tezos
+* Tezos Developer Portal https://tezos.com/developers/ 
+* Tezos Developer Documentation https://opentezos.com/
+* Tezos Octez implementation https://gitlab.com/tezos/tezos
 * TZIP: Tezos improvement proposals (Standards) https://gitlab.com/tezos/tzip/-/tree/master/
 
 ## Courses and Learning resources  
 
-* 2-day smart contract coding for beginners training organized by [Nomadic Labs](https://www.nomadic-labs.com/). It takes place online via Discord and uses a virtual [Gitpod](https://www.gitpod.io/) coding environment, therefore you don't have to install things on your computer. You can choose to learn Archetype, SmartPy or JSLigo. The training focuses on solving coding tasks, and is largely self-paced, with tutors on stand-by to help with problems. What made the difference for me was a final session on finding bugs in smart contracts and discussions on how to implement randomness. It helps if you have some coding experience beforehand. Recommended.        
+* 2-day smart contract coding for beginners training organized by [Nomadic Labs](https://www.nomadic-labs.com/). It takes place online via Discord and uses a virtual coding environment, therefore you don't have to install things on your computer. You can choose to learn Archetype, SmartPy or JSLigo. The training focuses on solving coding tasks, and is largely self-paced, with tutors on stand-by to help with problems. What made the difference for me was a final session on finding bugs in smart contracts and discussions on how to implement randomness. It helps if you have some coding experience beforehand. Recommended.        
  
 * Tacode offers a starter course in CameLIGO https://tacode.dev/courses/dev-starter
 * The B9Lab Tezos Developer Portal https://tezos.b9lab.com/ offers a course in Tezos development covering SmartyPy, Michelson, LIGO, Taquito   
@@ -39,7 +36,7 @@
 * Taqueria "Taqueria provides a seamless development workflow to easily build, test and deploy your Tezos applications." https://taqueria.io/ Taqueria provides a Command Line Interface and VSCode plugin, integrating tools such as SmartPy, Ligo, Taquito and Flextesa (a blockchain simulator). It aims to simplify setup of development tools, compilation and deployment.
 **Taqueria (in beta) looks promising as an alternative to install individual tools / languages** 
 
-# 5. Individual Programming Languages (alphabetically)
+# 5. Individual Programming Languages / Environments (alphabetically)
 
 ### Archetype 
 
@@ -47,7 +44,7 @@
 
 ### C# 
 
-* Netezos: "Netezos is a cross-platform Tezos SDK for .NET developers, simplifying the access and interaction with the Tezos blockchain." https://github.com/baking-bad/netezos (MIT License)
+* (possible deprecation, no update for 6 months) Netezos: "Netezos is a cross-platform Tezos SDK for .NET developers, simplifying the access and interaction with the Tezos blockchain." https://netezos.dev/ https://github.com/baking-bad/netezos (MIT License)
 
 ### JavaScript / Typescript
 
@@ -55,17 +52,13 @@
 
 * see also: JsLIGO, SmartPy
 
-### Flutter and Dart 
-
-* Tezart "A magic way to interact with the Tezos blockchain using dart." https://moneytrackio.github.io/tezart/#/ (MIT License)
-
 ### Go
-
-* TzGo "TzGo is the officially supported Tezos Go client library by Blockwatch." In Betas. https://github.com/blockwatch-cc/tzgo (MIT License)
+"TzGo is the officially supported Tezos Go client library by Blockwatch." https://docs.tzpro.io/sdks/tzgo (MIT License)        
+Includes TzCompose - A Tezos Automation Framework https://github.com/blockwatch-cc/tzgo/blob/master/cmd/tzcompose/README.md
 
 ### Juvix 
 
-* Juvix DSL "Juvix is a research programming language created by Heliax as a first step toward creating more robust and reliable alternatives for formally verified smart contracts than existing languages." https://juvix.org/ (GPL)
+* Juvix DSL "Juvix is a research programming language created by Heliax as a first step toward creating more robust and reliable alternatives for formally verified smart contracts than existing languages." https://juvix.org/ https://docs.juvix.org/ (GPL)
 
 ### LIGO 
 
@@ -90,32 +83,31 @@
 
 ## IPFS 
 
-* https://ipfs.io IPFS Interplanetary File System
+* IPFS Interplanetary File System https://ipfs.tech/
 
 ## Program Verification
 
-* WhyML / Why3, http://why3.lri.fr/ a platform for deductive program verification
+* WhyML / Why3, https://why3.lri.fr/ a platform for deductive program verification
 * K Framework https://kframework.org/ runtime verification
-* Manticore https://github.com/trailofbits/manticore 
 
 ## Historic Materials on Hic et Nunc (HEN) Apps and Tools development 
 
 * https://norulesjustfeels.com/hen, a collection of tutorials by [@FeelsNoRules](https://twitter.com/FeelsNoRules) 
 * https://github.com/hicetnunc2000/hicetnunc/wiki/Tools-made-by-the-community
-* https://hicetnunc.tools/ list by [@pamicel](https://twitter.com/pamicel)
 
 ### Original hicetnunc2000 Code Repository (deprecated, for historical reasons)
 
 * https://github.com/hicetnunc2000 
 
-# 7. Outdated resources that need to be updated
+# 7. Outdated resources 
 
-These resources contain outdated information:
+These resources contain outdated information, kept for historical purposes. Links might be broken:
 
 * https://wiki.tezos.com/ 
 * https://tezos.gitlab.io/
 * https://wiki.tezosagora.org/ 
 * https://assets.tqtezos.com/docs/setup/1-tezos-client/
+* https://glry.xyz/value Colllection Appraisal by [@glryxyz](https://twitter.com/glryxyz)
 
 # 8. Outdated / Deprecated - Not Recommended libraries and resources 
 
@@ -126,7 +118,7 @@ These are to best of my knowledge outdated / unmaintained (no public commits rep
 * better call dev API superseded by tzKT API (Baking Bad) 
 
 * ConseilJS https://github.com/Cryptonomic/Conseiljs (Cryptonomic strives to provide a multilanguage stack / APIs: Conseil / Nautilus https://cryptonomic.tech/developers.html, https://github.com/Cryptonomic/Conseil, https://nautilus.cloud/
-
+ 
 * FI
 
 * Haskell Frameworks by https://serokell.io/: Indigo / Morley / Lorentz 
@@ -135,9 +127,13 @@ These are to best of my knowledge outdated / unmaintained (no public commits rep
 
 * hicdex https://github.com/hicdex/hicdex GraphQL indexer by [@marchingsquare](https://twitter.com/marchingsquare). a public instance of hicdex is kept running for compatibility with historic NFTs who rely on it  
 
+* https://github.com/tqtezos/minter "Minter SDK offers a set of packages to bring creation, management, and sales of NFTs to any application."
+
 * Liquidity 
 
 * Svelte: "A Svelte template to build awesome dapps on Tezos!" https://github.com/claudebarde/svelte-tezos-template (based on Taquito and Beacon, License missing)
+
+* Tezart "A magic way to interact with the Tezos blockchain using dart." https://moneytrackio.github.io/tezart/#/ (MIT License)
 
 * Tezter "A library for building decentralized applications in Flutter, currently focused on the Tezos platform." https://github.com/Tezsure/Tezster_dart, article: https://aditya-12115.medium.com/ (AGPL 3.0)
 
