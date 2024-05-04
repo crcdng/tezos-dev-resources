@@ -44,21 +44,16 @@
 
 ### C# 
 
-* (possible deprecation, no update for 6 months) Netezos: "Netezos is a cross-platform Tezos SDK for .NET developers, simplifying the access and interaction with the Tezos blockchain." https://netezos.dev/ https://github.com/baking-bad/netezos (MIT License)
+* Netezos: "Netezos is a cross-platform Tezos SDK for .NET developers, simplifying the access and interaction with the Tezos blockchain." https://netezos.dev/ https://github.com/baking-bad/netezos (MIT License)
 
 ### JavaScript / Typescript
 
-* Taquito: "A TypeScript library suite for development on the Tezos blockchain." https://tezostaquito.io/ (MIT License) **Taquito is my recommendation for connecting web apps to APIs and to smart contracts written in CamelLIGO on Tezos** 
+* Taquito: "A TypeScript library suite for development on the Tezos blockchain." https://taquito.io/ (MIT License) **Taquito is my recommendation for connecting web apps to APIs and to smart contracts written in CamelLIGO on Tezos** 
 
 * see also: JsLIGO, SmartPy
 
 ### Go
-"TzGo is the officially supported Tezos Go client library by Blockwatch." https://docs.tzpro.io/sdks/tzgo (MIT License)        
-Includes TzCompose - A Tezos Automation Framework https://github.com/blockwatch-cc/tzgo/blob/master/cmd/tzcompose/README.md
-
-### Juvix 
-
-* Juvix DSL "Juvix is a research programming language created by Heliax as a first step toward creating more robust and reliable alternatives for formally verified smart contracts than existing languages." https://juvix.org/ https://docs.juvix.org/ (GPL)
+"TzGo is the officially supported Tezos Go client library" created by Blockwatch, now managed by TriliTech. https://docs.tzpro.io/sdks/tzgo (MIT License)        
 
 ### LIGO 
 
@@ -72,7 +67,7 @@ Includes TzCompose - A Tezos Automation Framework https://github.com/blockwatch-
 
 * PyTezos "A Python library for interacting with Tezos blockchain, testing smart contracts, and writing Michelson scripts." https://pytezos.org/ (MIT License)
 
-* SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License) SmartPy also has an online IDE so you don't have to install anything to start coding: https://smartpy.io/ide. Note that despite the name, SmartPy also offers a TypeScript implementation.
+* SmartPy "The SmartPy language is available through a Python library for building and analyzing Tezos smart contracts. It comes with various tools: a compiler that generates Michelson code, a simulation engine, a contract explorer, etc." https://smartpy.io/ (MIT License) SmartPy also has an online IDE so you don't have to install anything to start coding: https://smartpy.io/ide.
 **SmartPy is my recommendation for quick experiments and introductory blockchain coding on Tezos** 
 
 # 6. Other Topics
@@ -128,6 +123,8 @@ These are to best of my knowledge outdated / unmaintained (no public commits rep
 * hicdex https://github.com/hicdex/hicdex GraphQL indexer by [@marchingsquare](https://twitter.com/marchingsquare). a public instance of hicdex is kept running for compatibility with historic NFTs who rely on it  
 
 * https://github.com/tqtezos/minter "Minter SDK offers a set of packages to bring creation, management, and sales of NFTs to any application."
+
+* Juvix DSL transitioned to anoma.net
 
 * Liquidity 
 
