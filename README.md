@@ -1,5 +1,7 @@
 # Resources for Developers - Hic et Nunc / Teia / Tezos 
 
+*sunset after 3 years of updates*
+
 <img width="981" alt="tezos_development" src="https://user-images.githubusercontent.com/830492/221701284-fb6722a7-8568-4780-aaad-4211ffd771d1.png">
 
 **tl;dr**    
